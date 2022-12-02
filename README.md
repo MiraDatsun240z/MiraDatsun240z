@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiraDatsun240z
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on any project :)
 - 📫 How to reach me MiraDatsun240z#0499
 
